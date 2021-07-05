@@ -1,0 +1,37 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="me.sumitshastri.library.test" >
+4
+5    <uses-sdk
+5-->/Users/sumitshastri/Desktop/mobile/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2200931044880333422.xml:5:5-74
+6        android:minSdkVersion="24"
+6-->/Users/sumitshastri/Desktop/mobile/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2200931044880333422.xml:5:15-41
+7        android:targetSdkVersion="29" />
+7-->/Users/sumitshastri/Desktop/mobile/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2200931044880333422.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/sumitshastri/Desktop/mobile/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2200931044880333422.xml:11:5-15:78
+10        android:name="android.test.InstrumentationTestRunner"
+10-->/Users/sumitshastri/Desktop/mobile/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2200931044880333422.xml:11:22-75
+11        android:functionalTest="false"
+11-->/Users/sumitshastri/Desktop/mobile/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2200931044880333422.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/sumitshastri/Desktop/mobile/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2200931044880333422.xml:13:22-53
+13        android:label="Tests for me.sumitshastri.library.test"
+13-->/Users/sumitshastri/Desktop/mobile/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2200931044880333422.xml:15:22-76
+14        android:targetPackage="me.sumitshastri.library.test" />
+14-->/Users/sumitshastri/Desktop/mobile/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2200931044880333422.xml:12:22-74
+15
+16    <application
+16-->/Users/sumitshastri/Desktop/mobile/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2200931044880333422.xml:7:5-9:19
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.2.0] /Users/sumitshastri/.gradle/caches/transforms-2/files-2.1/df5936bc84888b71815c0a22277f3dbb/core-1.2.0/AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+18-->/Users/sumitshastri/Desktop/mobile/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2200931044880333422.xml:7:18-43
+19        android:extractNativeLibs="false" >
+20        <uses-library android:name="android.test.runner" />
+20-->/Users/sumitshastri/Desktop/mobile/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2200931044880333422.xml:8:9-60
+20-->/Users/sumitshastri/Desktop/mobile/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2200931044880333422.xml:8:23-57
+21    </application>
+22
+23</manifest>

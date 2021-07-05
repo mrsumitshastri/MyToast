@@ -1,0 +1,2 @@
+me/sumitshastri/library/BuildConfig.java
+ me.sumitshastri.library.BuildConfig
